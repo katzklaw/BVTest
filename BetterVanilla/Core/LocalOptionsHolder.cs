@@ -28,8 +28,7 @@ public sealed class LocalOptionsHolder
         DisplayVotesAfterDeath = category.CreateBool("DisplayVotesAfterDeath", "Display votes after death", true);
         DisplayVoteColorsAfterDeath = category.CreateBool("DisplayVoteColorsAfterDeath", "Display vote colors after death", true);
         AutoPlayAgain = category.CreateBool("AutoPlayAgain", "Auto Play Again", true);
-        TeamPreference = category.CreateEnum("TeamPreference", "Team Assignment Preference", TeamPreferences.Both);
-        
+           
         AllowModdedCosmetics = category.CreateBool("AllowModdedCosmetics", "Display Modded Cosmetics", false);
         DisableAmDeadCheck = category.CreateBool("DisableAmDeadCheck", "Disable Am Dead Check", false);
         DisableAmImpostorCheck = category.CreateBool("DisableAmImpostorCheck", "Disable Am Impostor Check", false);
