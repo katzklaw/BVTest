@@ -14,7 +14,6 @@ public sealed class HostOptionsHolder
     {
         _category = new HostCategory("Better Vanilla");
 
-        AllowTeamPreference = _category.CreateBool("TeamPreferenceAllowed", "Allow Team Preferences", true);
         PolusReactorCountdown = _category.CreateFloat("PolusReactorCountdown", "Polus Reactor Countdown", 60f, 1f, new FloatRange(15f, 120f), "0.0", false, NumberSuffixes.Seconds);
     }
 
