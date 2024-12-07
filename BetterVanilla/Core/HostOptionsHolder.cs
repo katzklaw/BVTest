@@ -14,7 +14,7 @@ public sealed class HostOptionsHolder
     {
         _category = new HostCategory("Better Vanilla");
 
-        PolusReactorCountdown = _category.CreateFloat("PolusReactorCountdown", "Polus Reactor Countdown", 60f, 1f, new FloatRange(15f, 120f), "0.0", false, NumberSuffixes.Seconds);
+        PolusReactorCountdown = _category.CreateFloat("PolusReactorCountdown", "Polus Reactor Countdown", 40f, 1f, new FloatRange(15f, 120f), "0.0", false, NumberSuffixes.Seconds);
     }
 
     public void ShareAllOptions()
