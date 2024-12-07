@@ -7,8 +7,7 @@ public sealed class HostOptionsHolder
 {
     private readonly HostCategory _category;
     
-    public readonly BoolHostOption AllowTeamPreference;
-    public readonly FloatHostOption PolusReactorCountdown;
+      public readonly FloatHostOption PolusReactorCountdown;
 
     public HostOptionsHolder()
     {
