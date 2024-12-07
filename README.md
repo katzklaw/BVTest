@@ -3,12 +3,12 @@
 Forked from BetterVanilla. I have no idea what I'm doing! 
 
 # Installation (EN)
-- Download [BetterVanilla v1.1.4.zip](https://github.com/EnoPM/EnoPM.BetterVanilla/releases/download/v1.1.4/BetterVanilla.v1.1.4.zip)
+- Download 
 - Extract the contents of the archive into the Among Us game folder (Steam or Epic Games).
 - Launch the Among Us game.
 
 # Installation (FR)
-- Télécharger [BetterVanilla v1.1.4.zip](https://github.com/EnoPM/EnoPM.BetterVanilla/releases/download/v1.1.4/BetterVanilla.v1.1.4.zip)
+- Télécharger
 - Extraire le contenu de l'archive dans le dossier du jeu Among Us (Steam ou Epic Games).
 - Lancer Among Us.
 
